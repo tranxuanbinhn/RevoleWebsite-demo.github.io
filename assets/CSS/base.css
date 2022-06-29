@@ -1,0 +1,14 @@
+:root
+{
+    --whitecolor:#fff;
+    --hovercolor:#d8d4d4;
+}
+*{
+    box-sizing: inherit;
+    font-size: 100%;
+    line-height: 1.78571429em;
+}
+html
+{
+    font-family: Karla,Arial,sans-serif;
+}
